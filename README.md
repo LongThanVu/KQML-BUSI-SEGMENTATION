@@ -18,12 +18,11 @@ The proposed framework is specifically designed to balance **model efficiency an
 ### **Overall framework**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa94d261-70e3-48fc-a6b0-fe202a411f06" width="600" alt="KQML-BUSI" />
+  <img src="https://github.com/user-attachments/assets/fa94d261-70e3-48fc-a6b0-fe202a411f06" width="800" alt="KQML-BUSI" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f99a7956-5042-4d79-bbc5-c6ec45547ccf" width="600"/><br>
-  <em>KAN-BUSI Model</em>
+  <img src="https://github.com/user-attachments/assets/f99a7956-5042-4d79-bbc5-c6ec45547ccf" width="800" alt="KAN-BUSI-Model" />
 </p>
 
 
