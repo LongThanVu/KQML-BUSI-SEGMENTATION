@@ -16,9 +16,9 @@ The proposed framework is specifically designed to balance **model efficiency an
 * This study highlights a promising direction toward **efficient, scalable, and resource-aware medical image segmentation**, which is particularly valuable for real-world clinical deployment in low-resource settings.
 
 ### **Overall framework**
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa94d261-70e3-48fc-a6b0-fe202a411f06" width="600"/><br>
-  <em>KQML-BUSI</em>
+  <img src="https://github.com/user-attachments/assets/fa94d261-70e3-48fc-a6b0-fe202a411f06" width="600" alt="KQML-BUSI" />
 </p>
 
 <p align="center">
